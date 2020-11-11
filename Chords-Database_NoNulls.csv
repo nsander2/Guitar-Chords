@@ -2,7 +2,7 @@ Root,Type,E,A,D,G,B,E2,Structure,Note1,Note2,Note3,Note4,Note5,Note6
 A,sus2,x,0,2,3,0,0,1;2;5,A,E,A,B,E,x
 A,sus2,0,0,1,4,0,0,1;2;5,E,A,E,B,B,E
 A,sus2,x,0,1,3,4,1,1;2;5,A,A,E,A,B,x
-A,sus2,x,0,2,3,0,x,1;2;5,A,E,A,B,,x
+A,sus2,x,0,2,3,0,x,1;2;5,A,E,A,B,x,x
 A,aug,x,3,2,1,1,x,1;3;#5,C#,E#,A,C#,x,x
 A,aug,4,3,2,1,x,x,1;3;#5,A,C#,E#,A,x,x
 A,aug,x,x,4,2,3,1,1;3;#5,C#,E#,A,C#,x,x
